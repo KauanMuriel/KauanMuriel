@@ -1,5 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KauanMuriel&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kauan's github stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMuriel&layout=compact&theme=dark&hide_border=true" /></a>
+[![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanMuriel&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills:
 
