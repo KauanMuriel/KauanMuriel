@@ -4,7 +4,16 @@
 
 ### 🖥️ Stack
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrossii&layout=compact&langs_count=5&theme=noctis_minimus"/>
+<div>
+<a href="https://github.com/kauanrossii">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kauanrossii&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/kauanrossii">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrossii&layout=compact&langs_count=5&theme=github_dark_dimmed" />
+</a>
+</div>
+
+###
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![CSharp](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=csharp&logoColor=946dba)&nbsp;
