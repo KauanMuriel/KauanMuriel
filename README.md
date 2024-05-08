@@ -4,18 +4,22 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMuriel&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
 
-## Skills:
+### 🖥️ Stack:
 
-#### Languages:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![CSharp](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=csharp&logoColor=946dba)&nbsp;
+![CPP](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=green)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=ff7200)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=5caef0)&nbsp;
-
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 #
 
-### :link: &nbsp;Connect with me
+### 📨 Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kauan-muriel-rossi-da-silva-44b974232/"><img src="https://img.shields.io/badge/-Kauan%20Muriel-05122A?style=flat&logo=Linkedin&logoColor=blue"/></a>
